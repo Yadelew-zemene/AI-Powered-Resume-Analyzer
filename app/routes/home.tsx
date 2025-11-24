@@ -16,7 +16,6 @@ export default function Home() {
       <Navbar />
       <section className='main-section'>
           <div className ="Page-hadding">
-              
               <h1 >Track Your Application &  Resume Rating</h1>
               <h2>Review your submissions and check AI-powered feedback.</h2>
           </div>
